@@ -1,0 +1,14 @@
+{
+    "name": "Depression Dashboard Theme",
+    "dataColors": [ "#5DADE2", "#58D68D", "#EC7063", "#F5B041", "#AF7AC5" ],
+    "background": "#f9f9f9",
+    "foreground": "#1b2631",
+    "visualStyles": {
+      "*": {
+        "*": {
+          "titleText": [{ "fontSize": 13, "color": "#1b2631", "fontFamily": "Segoe UI Semibold" }],
+          "labels": [{ "color": "#333333" }]
+        }
+      }
+    }
+  }
